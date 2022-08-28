@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1B244A;
+    Height: 1000px;
+    Top: 678px;
+    Left: 1996px;
+    color: ghostwhite;
+}
+.display {
+    position: absolute;
+    width: 100px;
+    height: 70px;
+    background: #080001;
+    border-radius: 5px;
+    margin-left: -15px;
+    text-align: center;
+    
+}
+#add1-btn {
+    width: 30px;
+    height: 20px;
+    border: ghostwhite solid;
+    background-color: green;
+    margin-top: 100px;
+    margin-left: -25px;
+    position: absolute;
+}
+#add2-btn {
+    width: 30px;
+    height: 20px;
+    border: ghostwhite solid;
+    background-color: green;
+    margin-top: 100px;
+    margin-left: 10px;
+    position: absolute;
+}
+#add3-btn {
+    width: 30px;
+    height: 20px;
+    border: ghostwhite solid;
+    background-color: green;
+    margin-top: 100px;
+    margin-left: 50px;
+}
